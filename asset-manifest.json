@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/3-travel/static/css/main.6025744c.chunk.css",
-    "main.js": "/3-travel/static/js/main.2a8df266.chunk.js",
-    "main.js.map": "/3-travel/static/js/main.2a8df266.chunk.js.map",
+    "main.js": "/3-travel/static/js/main.b46dd5db.chunk.js",
+    "main.js.map": "/3-travel/static/js/main.b46dd5db.chunk.js.map",
     "runtime-main.js": "/3-travel/static/js/runtime-main.29df102d.js",
     "runtime-main.js.map": "/3-travel/static/js/runtime-main.29df102d.js.map",
-    "static/js/2.d58fab35.chunk.js": "/3-travel/static/js/2.d58fab35.chunk.js",
-    "static/js/2.d58fab35.chunk.js.map": "/3-travel/static/js/2.d58fab35.chunk.js.map",
+    "static/js/2.095dd21d.chunk.js": "/3-travel/static/js/2.095dd21d.chunk.js",
+    "static/js/2.095dd21d.chunk.js.map": "/3-travel/static/js/2.095dd21d.chunk.js.map",
     "index.html": "/3-travel/index.html",
     "static/css/main.6025744c.chunk.css.map": "/3-travel/static/css/main.6025744c.chunk.css.map",
-    "static/js/2.d58fab35.chunk.js.LICENSE.txt": "/3-travel/static/js/2.d58fab35.chunk.js.LICENSE.txt",
+    "static/js/2.095dd21d.chunk.js.LICENSE.txt": "/3-travel/static/js/2.095dd21d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/3-travel/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/3-travel/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/3-travel/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/3-travel/static/media/img-9.f97f588f.jpg",
     "static/media/HeroSection.css": "/3-travel/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.29df102d.js",
-    "static/js/2.d58fab35.chunk.js",
+    "static/js/2.095dd21d.chunk.js",
     "static/css/main.6025744c.chunk.css",
-    "static/js/main.2a8df266.chunk.js"
+    "static/js/main.b46dd5db.chunk.js"
   ]
 }
